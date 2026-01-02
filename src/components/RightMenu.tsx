@@ -7,7 +7,6 @@ import {
   Briefcase,
   Layers,
   UsersRound,
-  Grid,
   MessageSquare,
   MessageCircle,
   FolderKanban, // ⭐ PROJECT ICON
@@ -24,7 +23,6 @@ const items: MenuItem[] = [
   { icon: User, id: "about", label: "About" },
   { icon: Briefcase, id: "resume", label: "Resume" },
   { icon: Layers, id: "services", label: "Services" },
-  // { icon: Grid, id: "skill", label: "Skills" },
   { icon: MessageCircle, id: "testimonial", label: "Testimonial" },
   { icon: FolderKanban, id: "projects", label: "Projects" },
   { icon: UsersRound, id: "team", label: "Team" },
